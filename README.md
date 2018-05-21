@@ -1,2 +1,3 @@
-# proyecto_demo
-Proyecto final de 9no
+# Proyecto final de 9no
+
+En este repositorio se encuentra la documentación del proyecto .....
